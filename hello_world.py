@@ -7,3 +7,5 @@ for i in range (0,11):
 	print(f'{i}x{n}= {i*n}')
 print(f'Essa e a tabuada do {n}')
 
+print('Nova troca pra testar o pull')
+
